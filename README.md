@@ -6,4 +6,4 @@ HTML
 CSS
 JavaScript
 
-![](DOM.png)
+![](TODOlist.png)
