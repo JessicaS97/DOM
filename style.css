@@ -1,0 +1,40 @@
+body {
+    margin: 0 auto;
+}
+
+button {
+    border-radius: 12%;
+    background: red;
+    color: white;
+}
+
+#main-header {
+    padding: 2rem;
+    background: lightskyblue;
+    color: whitesmoke;
+    height: 15vh;
+}
+
+#items {
+    list-style: none;
+    border: solid lightblue;
+    width: 50%;
+}
+
+#items li {
+    border-bottom: solid lightblue;
+    padding: 1rem 1rem 1rem 0;
+}
+
+#items button {
+    float: right;
+}
+
+form {
+    margin: 2rem;
+}
+
+.container {
+    padding: 2rem;
+}
+
