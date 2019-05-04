@@ -5,3 +5,5 @@ Languages Used:
 HTML
 CSS
 JavaScript
+
+![](DOM.png)
